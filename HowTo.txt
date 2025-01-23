@@ -1,0 +1,18 @@
+---------Welcome to Asia Air Routes Application---------
+
+1) Create an account if you do not have one
+- key in your username and password than click on create account
+
+2) Log in after you have created an account
+
+3) Choose your source country > source city > source airport
+
+4) Choose your destination country > destination city > destination > airport
+
+5) Click on "Retrieve Flight Information" to generate the cheapest path, 3 shortest flight path and a map for the 3 shortest path
+
+6) Click on the individual Path info for more information
+
+7) Click on Logout at the top left corner to logout
+	
+
